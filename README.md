@@ -2,7 +2,6 @@
     <img width="30px" src="https://emojis.slackmojis.com/emojis/images/1584725500/8268/blob-hype.gif?1584725500"/>
     Hey, nice to see you
 </h2>
-<hr>
 
 <p>
     I'm pilna, student developer from 
