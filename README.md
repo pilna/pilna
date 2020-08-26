@@ -30,7 +30,43 @@
 </p>
 
 <h3>
-    how to reach me 📫
+    my favorite projects 🤭
+</h3>
+
+<table>
+<thead align="center">
+    <tr border="none">
+        <td><b>🎁 Projects</b></td>
+        <td><b>⭐ Stars</b></td>
+        <td><b>📚 Forks</b></td>
+        <td><b>🛎 Issues</b></td>
+        <td><b>📬 Pull requests</b></td>
+    </tr>
+</thead>
+
+<tbody>
+    <tr>
+        <td>
+            <a href="https://github.com/readthedocs-fr/notions">Notions</a>
+        </td>
+        <td>
+            <img src="https://img.shields.io/github/stars/readthedocs-fr/notions?labelColor=343b41" />
+        </td>
+        <td>
+            <img alt="Forks" src="https://img.shields.io/github/forks/readthedocs-fr/notions?labelColor=343b41"/>
+        </td>
+        <td>
+            <img src="https://img.shields.io/github/issues/readthedocs-fr/notions?labelColor=343b41">
+        </td>
+        <td>
+            <img src="https://img.shields.io/github/issues-pr/readthedocs-fr/notions?labelColor=343b41">
+        </td>
+    </tr>
+</tbody>
+</table>
+
+<h3>
+    how to reach me ✉️
 </h3>
 
 <p>
